@@ -1,0 +1,5 @@
+name: AIDSFree Taxonomy Validation
+type: module
+description: This module updates aidsfree d8 with new nodes from aidsfree d7
+core: 8.x
+package: aidsfree
